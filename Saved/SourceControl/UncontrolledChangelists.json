@@ -15,7 +15,9 @@
 				"C:/Users/mrtim/OneDrive/Desktop/GAM-303/FInalGAM303/Content/Interactables/Interact.uasset",
 				"C:/Users/mrtim/OneDrive/Desktop/GAM-303/FInalGAM303/Content/Player/BP_GameMode.uasset",
 				"C:/Users/mrtim/OneDrive/Desktop/GAM-303/FInalGAM303/Content/Inputs/Input_Jump.uasset",
-				"C:/Users/mrtim/OneDrive/Desktop/GAM-303/FInalGAM303/Content/Inputs/Input_Look.uasset"
+				"C:/Users/mrtim/OneDrive/Desktop/GAM-303/FInalGAM303/Content/Inputs/Input_Look.uasset",
+				"C:/Users/mrtim/OneDrive/Desktop/GAM-303/FInalGAM303/Content/Interactables/BP_CollectiblePickup.uasset",
+				"C:/Users/mrtim/OneDrive/Desktop/GAM-303/FInalGAM303/Content/Interactables/BP_PhysicsPickup.uasset"
 			]
 		}
 	]
