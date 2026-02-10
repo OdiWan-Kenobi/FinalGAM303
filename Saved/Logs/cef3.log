@@ -1,0 +1,15 @@
+[25460:37416:0210/151900.215:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25460:37508:0210/151900.248:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[25460:37416:0210/151900.257:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22432:34444:0210/151903.120:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5EFC7AFFC42F446DB93A227D988DA5C0 will be ignored
+[25460:30516:0210/151905.141:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[25460:37416:0210/151905.804:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[25460:37416:0210/151905.806:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[25460:37416:0210/151905.806:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[25460:37416:0210/151905.806:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[25460:30516:0210/151905.809:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[33972:36264:0210/152119.147:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[33972:36264:0210/152119.147:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[25460:37416:0210/153240.746:ERROR:device_event_log_impl.cc(196)] [15:32:40.729] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[25460:37416:0210/153246.553:ERROR:device_event_log_impl.cc(196)] [15:32:46.548] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[25460:37416:0210/153848.368:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
