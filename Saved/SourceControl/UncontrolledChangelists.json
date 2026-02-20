@@ -7,6 +7,13 @@
 			"files": [
 				"C:/Users/odryl/Desktop/School/GAM-495/FinalGAM303/Content/Player/BP_PlayerChar.uasset",
 				"C:/Users/odryl/Desktop/School/GAM-495/FinalGAM303/Content/Map/TestEnvironment.umap",
+				"C:/Users/odryl/Desktop/School/GAM-495/FinalGAM303/Content/Inputs/Mapping_Player.uasset",
+				"C:/Users/odryl/Desktop/School/GAM-495/FinalGAM303/Content/Interactables/BP_PhysicsPickup.uasset",
+				"C:/Users/odryl/Desktop/School/GAM-495/FinalGAM303/Content/Interactables/Animated_Interactables/BP_Door.uasset",
+				"C:/Users/odryl/Desktop/School/GAM-495/FinalGAM303/Content/Enemy/Turret/BP_Camera.uasset",
+				"C:/Users/odryl/Desktop/School/GAM-495/FinalGAM303/Content/Interactables/Animated_Interactables/BP_Button.uasset",
+				"C:/Users/odryl/Desktop/School/GAM-495/FinalGAM303/Content/Map/_GENERATED/mrtim/LongWallVent.uasset",
+				"C:/Users/odryl/Desktop/School/GAM-495/FinalGAM303/Content/Inputs/Input_Crouch.uasset",
 				"C:/Users/mrtim/OneDrive/Desktop/GAM-303/FInalGAM303/Content/Inputs/Mapping_Player.uasset",
 				"C:/Users/mrtim/OneDrive/Desktop/GAM-303/FInalGAM303/Content/Player/BP_PlayerChar.uasset",
 				"C:/Users/mrtim/OneDrive/Desktop/GAM-303/FInalGAM303/Content/Map/TestEnvironment.umap",
