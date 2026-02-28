@@ -1,5 +1,15 @@
-[4592:14080:0220/174828.231:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4592:23168:0220/174828.432:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[4592:14080:0220/174828.511:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[29304:32904:0220/174832.427:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3563FF445A7661054ECFDCB53DAE2CD3 will be ignored
-[4592:14080:0220/180210.647:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[30404:14068:0224/140448.062:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[30404:38496:0224/140448.807:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[30404:14068:0224/140449.203:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[40512:41172:0224/140455.599:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FFD6C8EBAFA8A056923486F72529D67F will be ignored
+[30404:42056:0224/140456.032:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[30404:14068:0224/140456.114:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[30404:14068:0224/140456.115:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[30404:14068:0224/140456.115:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[30404:14068:0224/140456.115:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[30404:42056:0224/140456.118:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[30404:42056:0224/140458.634:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[4296:4628:0224/140701.236:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-7192A4C7AC00CD5E7DCF15E3B7584345 will be ignored
+[19700:41372:0224/140701.354:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[19700:41372:0224/140701.354:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[30404:14068:0224/141317.830:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
